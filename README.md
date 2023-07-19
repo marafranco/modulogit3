@@ -8,5 +8,3 @@ alguma nova linha legal
 Mais uma linha
 
 Mais um alteração
-
-mais alterações no sistema.
